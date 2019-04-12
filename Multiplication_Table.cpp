@@ -9,6 +9,6 @@ void Multiplication_Table(int max_size) {	// 몇 단
 }
 
 int main() {
-	Multiplication_Table(8);	// 8단
+	Multiplication_Table(9);	// 9단
 	return 0;
 }
